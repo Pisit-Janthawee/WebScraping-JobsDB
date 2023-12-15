@@ -17,7 +17,7 @@
 </div>
 
 ### JobsDB 
-![webpage.png](https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/images/website.png)](https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/images/website.png)https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/images/website.png)
+![webpage.png](https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/images/website.png)
 
 Website: https://th.jobsdb.com/th
 
