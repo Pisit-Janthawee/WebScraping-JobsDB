@@ -11,8 +11,9 @@
     <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap7.png" style="margin: 5px;" width="220" height="100">
     <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap8.png" style="margin: 5px;" width="220" height="100">
     <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap9.png" style="margin: 5px;" width="220" height="100">
-    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/wordcloud.png" style="margin: 5px;" width="220" height="100">
 </div>
+
+<img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/wordcloud.png" style="margin: 5px;" width="200" height="200">
 
 ### JobsDB 
 ![webpage.png](https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/images/website.png)](https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/images/website.png)https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/images/website.png)
