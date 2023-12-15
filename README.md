@@ -2,16 +2,16 @@
  
 ## 1. Web scraping
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap1.png" style="margin: 5px;">
-    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap2.png" style="margin: 5px;">
-    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap3.png" style="margin: 5px;">
-    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap4.png" style="margin: 5px;" >
-    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap5.png" style="margin: 5px;" >
-    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap6.png" style="margin: 5px;">
-    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap7.png" style="margin: 5px;">
-    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap8.png" style="margin: 5px;">
-    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap9.png" style="margin: 5px;">
-    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/wordcloud.png" style="margin: 5px;" >
+    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap1.png" style="margin: 5px;" width="220" height="100">
+    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap2.png" style="margin: 5px;"  width="220" height="100">
+    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap3.png" style="margin: 5px;"  width="220" height="100">
+    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap4.png" style="margin: 5px;"  width="220" height="100">
+    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap5.png" style="margin: 5px;"  width="220" height="100">
+    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap6.png" style="margin: 5px;" width="220" height="100">
+    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap7.png" style="margin: 5px;" width="220" height="100">
+    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap8.png" style="margin: 5px;" width="220" height="100">
+    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/treemap9.png" style="margin: 5px;" width="220" height="100">
+    <img src="https://github.com/Pisit-Janthawee/WebScraping-JobsDB/blob/main/viz_images/wordcloud.png" style="margin: 5px;" width="220" height="100">
 </div>
 
 ### JobsDB 
